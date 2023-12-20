@@ -1,7 +1,7 @@
 # checkin
 ### 高能预警：~~已恢复为每天签到可获得免费延期!~~[已删除]
 ## glados-checkin
-![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
+![glados-checkin](https://glados.rocks/images/logo-trans-01.png)
 
 #### 注册地址：
 
